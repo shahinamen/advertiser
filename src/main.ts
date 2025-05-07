@@ -11,5 +11,8 @@ const app = createApp(App)
 
 app.use(createPinia())
 app.use(router)
-
+router.afterEach((to) => {
+  const defaultTitle = "My App";
+  document.title = to.meta.title || defaultTitle;
+});
 app.mount('#app')
