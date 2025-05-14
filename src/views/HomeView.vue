@@ -24,7 +24,7 @@ import { RouterLink } from 'vue-router'
     <div class="px-4 space-x-4">
       <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mt-10">
         <div
-          class="bg-black shadow-md rounded-lg p-6 ring ring-red-500 cursor-pointer hover:bg-pink-500 transition duration-300"
+          class="bg-black shadow-md rounded-lg p-6 ring ring-red-500 cursor-pointer hover:bg-cyan-500 hover:text-black transition duration-300"
         >
           <h2 class="text-lg font-semibold mb-4">What is AdChain?</h2>
           <p>
@@ -33,7 +33,7 @@ import { RouterLink } from 'vue-router'
           </p>
         </div>
         <div
-          class="bg-black shadow-md rounded-lg p-6 ring ring-red-500 cursor-pointer hover:bg-pink-500 transition duration-300"
+          class="bg-black shadow-md rounded-lg p-6 ring ring-red-500 cursor-pointer hover:bg-cyan-500 hover:text-black transition duration-300"
         >
           <h2 class="text-lg font-semibold mb-4">How does it work?</h2>
           <p>
@@ -42,7 +42,7 @@ import { RouterLink } from 'vue-router'
           </p>
         </div>
         <div
-          class="bg-black shadow-md rounded-lg p-6 ring ring-red-500 cursor-pointer hover:bg-pink-500 transition duration-300"
+          class="bg-black shadow-md rounded-lg p-6 ring ring-red-500 cursor-pointer hover:bg-cyan-500 hover:text-black transition duration-300"
         >
           <h2 class="text-lg font-semibold mb-4">How does it work?</h2>
           <p>
@@ -54,7 +54,7 @@ import { RouterLink } from 'vue-router'
     </div>
     <div class="px-4 space-x-4">
       <div class="grid grid-cols-1 gap-4 mt-10">
-        <div class="bg-black shadow-md rounded-lg p-6 ring ring-red-500">
+        <div class="bg-black shadow-md rounded-lg p-6 ring ring-red-500 cursor-pointer hover:bg-cyan-500 hover:text-black transition duration-300">
           <h2 class="text-lg font-semibold mb-4">What is AdChain?</h2>
           <p>
             AdChain is a decentralized platform that allows users to earn rewards by viewing and
@@ -73,7 +73,7 @@ import { RouterLink } from 'vue-router'
     </div>
     <div class="px-4 space-x-4 mb-6">
       <div class="grid grid-cols-1 gap-4 mt-10">
-        <div class="bg-black shadow-md rounded-lg p-6 ring ring-red-500">
+        <div class="bg-black shadow-md rounded-lg p-6 ring ring-red-500 cursor-pointer hover:bg-cyan-500 hover:text-black transition duration-300">
           <h2 class="text-lg font-semibold mb-4">What is AdChain?</h2>
           <p>
             AdChain is a decentralized platform that allows users to earn rewards by viewing and
